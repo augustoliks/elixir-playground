@@ -56,6 +56,16 @@ $ docker logs jup-notebook
 
 > No exemplo, a URL de acesso para o Jupyter é: http://localhost:8888/?token=267cbe9bc6673475720b2554c7ff1ad996814a3219006eae&token=267 
 
+Ao acessar o ambiente web, verá dois diretórios.
+
+[](.images/01.png)
+
+O diretórios `works` está vinculado como volume ao diretório [jupyter-notebook](./jupyter-notebook), presente no diretório deste projeto. 
+
+[](.images/02.png)
+
+Tudo que for salvo no diretório works, estará sendo salvo em [jupyter-notebook](./jupyter-notebook).
+
 ## Referências
 
 - https://elixir-lang.org/getting-started/introduction.html
