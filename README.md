@@ -1,12 +1,11 @@
 # elixir-playground
 
-- __Data__: 15/11/2020
-- __Autor__: [@augustoliks](https://github.com/augustoliks) | <carlos.santos110@fatec.sp.gov.br>
+- __Data__: 15/11/2020;
+- __Autor__: [@augustoliks](https://github.com/augustoliks) | <carlos.santos110@fatec.sp.gov.br>;
 - __Descrição__: Ambiente provisionado com docker-compose, contendo Jupyter-Notebook que expõem códigos Elixir;
-- __Objetivo__: Fixar e descrever o entendimento sobre os recursos da Linguagem Elixir.
+- __Objetivo__: Fixar e descrever o entendimento sobre os recursos da Linguagem Elixir;
 - __Funcionalidades__:
     - docker-compose com o ambiente jupyter-notebook com Kernel Elixir configurado.
-
 
 ## Depêndencias
 
@@ -38,7 +37,7 @@ $ docker-compose up -d
     Creating jup-notebook ... done
 ```
 
-Para acessar o ambiente Web do Jupyter, é necessário um token de acesso. Este é gerado no momento do _build_ da Imagem. Para obter este Token, com o container operante, executar:
+Para acessar o ambiente Web do Jupyter, é necessário um token de acesso. Este é gerado no momento do _build_ da Imagem. A cada `build` da imagem, é gerado um novo Token. Para obter este Token, com o container operante, executar:
 
 ```bash
 $ docker logs jup-notebook 
