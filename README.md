@@ -27,7 +27,7 @@ docker-compose  | 1.25.4    | Orquestrador de Containers
     └── ...
 ```
 
-## Instalação do Ambiente
+## Configuração do Ambiente Jupyter
 
 ```bash
 $ git clone https://github.com/augustoliks/elixir-playground.git
