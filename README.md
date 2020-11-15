@@ -58,11 +58,11 @@ $ docker logs jup-notebook
 
 Ao acessar o ambiente web, verá dois diretórios.
 
-[](.images/01.png)
+[](.images/01.jpg)
 
 O diretórios `works` está vinculado como volume ao diretório [jupyter-notebook](./jupyter-notebook), presente no diretório deste projeto. 
 
-[](.images/02.png)
+[](.images/02.jpg)
 
 Tudo que for salvo no diretório works, estará sendo salvo em [jupyter-notebook](./jupyter-notebook).
 
