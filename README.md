@@ -66,6 +66,32 @@ O diretórios `works` está vinculado como volume ao diretório [jupyter-noteboo
 
 Tudo que for salvo no diretório works, estará sendo salvo em [jupyter-notebook](./jupyter-notebook).
 
+## Progresso
+                                                                                                        
+- TODO: [1-introduction.ipynb](jupyter-notebook/TODO/1-introduction.ipynb)
+- TODO: [2-basic-types.ipynb](jupyter-notebook/TODO/2-basic-types.ipynb)
+- TODO: [3-basic-operators.ipynb](jupyter-notebook/TODO/3-basic-operators.ipynb)
+- [4-pattern-matching.ipynb](jupyter-notebook/4-pattern-matching.ipynb)
+- TODO: [5-case-cond-and-if.ipynb](jupyter-notebook/TODO/5-case-cond-and-if.ipynb)
+- TODO: [6-binaries-strings-and-charlists.ipynb](jupyter-notebook/TODO/6-binaries-strings-and-charlists.ipynb)
+- TODO: [7-keyword-lists-and-maps.ipynb](jupyter-notebook/TODO/7-keyword-lists-and-maps.ipynb)
+- TODO: [8-modules-and-functions.ipynb](jupyter-notebook/TODO/8-modules-and-functions.ipynb)
+- TODO: [9-recursion.ipynb](jupyter-notebook/TODO/9-recursion.ipynb)
+- TODO: [10-enumerables-and-streams.ipynb](jupyter-notebook/TODO/10-enumerables-and-streams.ipynb)
+- TODO: [11-processes.ipynb](jupyter-notebook/TODO/11-processes.ipynb)
+- TODO: [12-io-and-the-file-system.ipynb](jupyter-notebook/TODO/12-io-and-the-file-system.ipynb)
+- TODO: [13-alias-require-and-import.ipynb](jupyter-notebook/TODO/13-alias-require-and-import.ipynb)
+- TODO: [14-module-attributes.ipynb](jupyter-notebook/TODO/14-module-attributes.ipynb)
+- TODO: [15-structs.ipynb](jupyter-notebook/TODO/15-structs.ipynb)
+- TODO: [16-protocols.ipynb](jupyter-notebook/TODO/16-protocols.ipynb)
+- TODO: [17-comprehensions.ipynb](jupyter-notebook/TODO/17-comprehensions.ipynb)
+- TODO: [18-sigils.ipynb](jupyter-notebook/TODO/18-sigils.ipynb)
+- TODO: [19-try-catch-and-rescue.ipynb](jupyter-notebook/TODO/19-try-catch-and-rescue.ipynb)
+- TODO: [20-typespecs-and-behaviours.ipynb](jupyter-notebook/TODO/20-typespecs-and-behaviours.ipynb)
+- TODO: [21-debugging.ipynb](jupyter-notebook/TODO/21-debugging.ipynb)
+- TODO: [22-erlang-libraries.ipynb](jupyter-notebook/TODO/22-erlang-libraries.ipynb)
+- TODO: [23-where-to-go-next.ipynb](jupyter-notebook/TODO/23-where-to-go-next.ipynb)
+
 ## Referências
 
 - https://elixir-lang.org/getting-started/introduction.html
