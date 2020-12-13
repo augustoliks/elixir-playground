@@ -1,7 +1,7 @@
 # elixir-playground
 
 - __Data__: 15/11/2020;
-- __Autor__: [@augustoliks](https://github.com/augustoliks) | <carlos.santos110@fatec.sp.gov.br>;
+- __Autor__: [@augustoliks](https://github.com/augustoliks) | <carlos.neto.dev@gmail.com>;
 - __Descrição__: Ambiente provisionado com docker-compose, contendo Jupyter-Notebook que expõem códigos Elixir;
 - __Objetivo__: Fixar e descrever o entendimento sobre os recursos da Linguagem Elixir;
 - __Funcionalidades__:
