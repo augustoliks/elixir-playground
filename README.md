@@ -17,10 +17,7 @@ docker-compose  | 1.25.4    | Orquestrador de Containers
 ## Estrutura do Projeto
 
 ```shell
-├── docker-compose.yml  # Compose do projeto
-├── exercicies          # Códigos Elixir, executados no terminal
-│   ├── 01-hello-world.exs
-│   └── ...                 
+├── docker-compose.yml  # Compose do ambiente Jupyter 
 └── jupyter-notebook    # Jupyter-Notebooks 
     ├── test-provisioning-env.ipynb
     └── ...
@@ -70,7 +67,7 @@ Tudo que for salvo no diretório works, estará sendo salvo em [jupyter-notebook
 Para acessar o contéudo criado no formato Jupyter Notebook, basta clicar nos links abaixo. 
                                                                                                         
 - TODO: [01-introduction](jupyter-notebook/TODO/01-introduction.ipynb)
-- TODO: [02-basic-types](jupyter-notebook/02-basic-types.ipynb)
+- [02-basic-types](jupyter-notebook/02-basic-types.ipynb)
 - TODO: [03-basic-operators](jupyter-notebook/TODO/03-basic-operators.ipynb)
 - [4-pattern-matching](jupyter-notebook/04-pattern-matching.ipynb)
 - TODO: [05-case-cond-and-if](jupyter-notebook/TODO/05-case-cond-and-if.ipynb)
