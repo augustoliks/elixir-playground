@@ -69,15 +69,15 @@ Tudo que for salvo no diretório works, estará sendo salvo em [jupyter-notebook
 
 Para acessar o contéudo criado no formato Jupyter Notebook, basta clicar nos links abaixo. 
                                                                                                         
-- TODO: [1-introduction](jupyter-notebook/TODO/1-introduction.ipynb)
-- TODO: [2-basic-types](jupyter-notebook/TODO/2-basic-types.ipynb)
-- TODO: [3-basic-operators](jupyter-notebook/TODO/3-basic-operators.ipynb)
-- [4-pattern-matching](jupyter-notebook/4-pattern-matching.ipynb)
-- TODO: [5-case-cond-and-if](jupyter-notebook/TODO/5-case-cond-and-if.ipynb)
-- TODO: [6-binaries-strings-and-charlists](jupyter-notebook/TODO/6-binaries-strings-and-charlists.ipynb)
-- TODO: [7-keyword-lists-and-maps](jupyter-notebook/TODO/7-keyword-lists-and-maps.ipynb)
-- TODO: [8-modules-and-functions](jupyter-notebook/TODO/8-modules-and-functions.ipynb)
-- TODO: [9-recursion](jupyter-notebook/TODO/9-recursion.ipynb)
+- TODO: [01-introduction](jupyter-notebook/TODO/01-introduction.ipynb)
+- TODO: [02-basic-types](jupyter-notebook/02-basic-types.ipynb)
+- TODO: [03-basic-operators](jupyter-notebook/TODO/03-basic-operators.ipynb)
+- [4-pattern-matching](jupyter-notebook/04-pattern-matching.ipynb)
+- TODO: [05-case-cond-and-if](jupyter-notebook/TODO/05-case-cond-and-if.ipynb)
+- TODO: [06-binaries-strings-and-charlists](jupyter-notebook/TODO/06-binaries-strings-and-charlists.ipynb)
+- TODO: [07-keyword-lists-and-maps](jupyter-notebook/TODO/07-keyword-lists-and-maps.ipynb)
+- TODO: [08-modules-and-functions](jupyter-notebook/TODO/08-modules-and-functions.ipynb)
+- TODO: [09-recursion](jupyter-notebook/TODO/09-recursion.ipynb)
 - TODO: [10-enumerables-and-streams](jupyter-notebook/TODO/10-enumerables-and-streams.ipynb)
 - TODO: [11-processes](jupyter-notebook/TODO/11-processes.ipynb)
 - TODO: [12-io-and-the-file-system](jupyter-notebook/TODO/12-io-and-the-file-system.ipynb)
@@ -96,4 +96,6 @@ Para acessar o contéudo criado no formato Jupyter Notebook, basta clicar nos li
 ## Referências
 
 - https://elixir-lang.org/getting-started/introduction.html
+- https://elixirschool.com/pt/
 - https://github.com/pprzetacznik/IElixir
+- https://blog.appsignal.com/2018/08/21/elixir-alchemy-list-vs-tuples.html#:~:text=Lists%20and%20Tuples%20in%20Elixir,-Lists%20and%20Tuples&text=However%2C%20they%20have%20fundamental%20differences,a%20fixed%20number%20of%20elements.
