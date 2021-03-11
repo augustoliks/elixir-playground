@@ -92,6 +92,7 @@ Para acessar o contéudo criado no formato Jupyter Notebook, basta clicar nos li
 
 ## Referências
 
+- https://www.tutorialspoint.com/elixir/index.htm
 - https://elixir-lang.org/getting-started/introduction.html
 - https://elixirschool.com/pt/
 - https://github.com/pprzetacznik/IElixir
